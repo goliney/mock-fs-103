@@ -1,0 +1,16 @@
+{
+  "name": "mock-fs-103",
+  "version": "0.0.1",
+  "description": "Representation of mock-fs issue #103",
+  "scripts": {
+    "test": "mocha ./*.spec.js"
+  },
+  "author": "Sergey Goliney <sergey@goliney.com> (http://goliney.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "fs-extra": "^0.30.0",
+    "mocha": "^2.5.3",
+    "mock-fs": "^3.9.0"
+  }
+}
