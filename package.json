@@ -8,9 +8,9 @@
   "author": "Sergey Goliney <sergey@goliney.com> (http://goliney.com/)",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "fs-extra": "^0.30.0",
-    "mocha": "^2.5.3",
-    "mock-fs": "^3.9.0"
+    "chai": "3.5.0",
+    "fs-extra": "0.30.0",
+    "mocha": "2.5.3",
+    "mock-fs": "3.9.0"
   }
 }
