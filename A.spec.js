@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-//const mock = require('mock-fs');      //uncommenting this line solves the issue
+//const mock = require('mock-fs');      //uncommenting this line solves the problem
 const fs = require('fs-extra');
 
 describe('Dummy test A', function () {

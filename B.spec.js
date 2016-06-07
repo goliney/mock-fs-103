@@ -14,7 +14,7 @@ describe('Dummy test B', function () {
     });
 
     it('should read mocked directory', function () {
-        var stat = fs.readdirSync('folder');
-        expect(stat).to.be.defined;
+        var content = fs.readdirSync('folder');
+        expect(content).to.be.an.array;
     });
 });
